@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+body{
+    background: #E9ECEF ;
+}
+
+#navbarNav a:hover{
+    color: chartreuse;
+}
+
+ul{
+    text-decoration: none;
+}
+
+
+
